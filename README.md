@@ -11,6 +11,8 @@
 
 # Buffalo
 
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/buffalo.svg)](https://www.guardrails.io)
+
 Buffalo is a Go web development eco-system. Designed to make the life of a Go web developer easier.
 
 Buffalo starts by generating a web project for you that already has everything from front-end (JavaScript, SCSS, etc...) to back-end (database, routing, etc...) already hooked up and ready to run. From there it provides easy APIs to build your web application quickly in Go.
